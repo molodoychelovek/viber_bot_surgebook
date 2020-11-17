@@ -1,0 +1,67 @@
+
+keyboard_menu = {
+    "Type": "keyboard",
+	"Buttons": [{
+		"Columns": 2,
+		"Rows": 2,
+		"Text": "<br><font color=\"#494E67\"><b>1</b></font>",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "1",
+		"BgColor": "#f7bb3f",
+	}, {
+		"Columns": 2,
+		"Rows": 2,
+		"Text": "<br><font color=\"#494E67\"><b>2</b></font>",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "2",
+		"BgColor": "#7eceea",
+	}, {
+		"Columns": 2,
+		"Rows": 2,
+		"Text": "<br><font color=\"#494E67\"><b>3</b></font>",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "3",
+		"BgColor": "#f6f7f9",
+	}, {
+		"Columns": 2,
+		"Rows": 2,
+		"Text": "<br><font color=\"#494E67\"><b>4</b></font>",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "4",
+		"BgColor": "#dd8157",
+	}, {
+		"Columns": 2,
+		"Rows": 2,
+		"Text": "",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "5",
+		"BgColor": "#f6f7f9",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg"
+	}, {
+		"Columns": 2,
+		"Rows": 2,
+		"Text": "",
+		"TextSize": "large",
+		"TextHAlign": "center",
+		"TextVAlign": "middle",
+		"ActionType": "reply",
+		"ActionBody": "6",
+		"BgColor": "#FFFFFF",
+		"Image": "https://cs5-2.4pda.to/12626826.png"
+	}]
+}

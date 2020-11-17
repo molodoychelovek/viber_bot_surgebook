@@ -1,0 +1,1 @@
+curl -# -i -g -H "X-Viber-Auth-Token:ТОКЕН" -d @viber.json -X POST https://chatapi.viber.com/pa/set_webhook -v
